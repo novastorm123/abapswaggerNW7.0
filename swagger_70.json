@@ -1,5 +1,6 @@
 {
    "swagger":"2.0",
+   "host": "sdev4.sapr3.davey.com",
    "info":{
       "version":"1.0.0",
       "title":"Example",
